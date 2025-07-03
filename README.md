@@ -32,3 +32,23 @@ Este projeto foi criado para treinar habilidades de diagnóstico técnico e orga
 
 ## 🗂️ Estrutura de Arquivos
 
+manual-suporte-interativo/
+├── manual_suporte.py
+├── historico_manual.txt
+└── README.md
+
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/gustavogit-hub/manual-suporte-interativo.git
+
+Acesse a pasta:
+cd manual-suporte-interativo
+
+Execute no terminal:
+python manual_suporte.py
